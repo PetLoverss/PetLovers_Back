@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5f5f312-1637-4276-8fcb-a460c4560548" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/petlover-chat/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b4988998-2ada-4225-9fbf-a46c5fd7ce0e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,25 +18,9 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="JpbToolWindowState">
-    <option name="myId2FirstActivated">
-      <map>
-        <entry key="JPA Inspector" value="true" />
-        <entry key="JPA Palette" value="true" />
-        <entry key="JPA Structure" value="true" />
-      </map>
-    </option>
-    <option name="myId2Visible">
-      <map>
-        <entry key="JPA Inspector" value="false" />
-        <entry key="JPA Palette" value="false" />
-        <entry key="JPA Structure" value="true" />
-      </map>
-    </option>
-  </component>
-  <component name="ProjectId" id="2BVUbLW3q7qbxm4wzFDps5PLajM" />
+  <component name="ProjectId" id="2BVBEcUQKrMhRGp2IB6gejNpubM" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,22 +29,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/petlover-chat" />
-    <property name="settings.editor.selected.configurable" value="Lombok" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Natalia\Documentos\ARSW\PROYECTO2\PetLovers_Back\petlover-chat" />
-    </key>
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../Jose/SecurityBoard" />
   </component>
   <component name="RunManager">
-    <configuration name="PetloverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="petlovers.app.PetloverApplication" />
+    <configuration name="PetloverChatApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="petlovers.app.petloverchat.PetloverChatApplication" />
       <module name="petlover-chat" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="petlovers.app.*" />
+          <option name="PATTERN" value="petlovers.app.petloverchat.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,20 +47,31 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PetloverApplication" />
+        <item itemvalue="Application.PetloverChatApplication" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5f5f312-1637-4276-8fcb-a460c4560548" name="Changes" comment="" />
-      <created>1656990818984</created>
+      <changelist id="b4988998-2ada-4225-9fbf-a46c5fd7ce0e" name="Changes" comment="" />
+      <created>1656981266344</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1656990818984</updated>
+      <updated>1656981266344</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -99,6 +83,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
